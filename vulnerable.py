@@ -13,6 +13,8 @@ def open_file(file_path):
 # Function to divide two numbers
 def divide(a, b):
     return a / b
+    define( 'DISALLOW_UNFILTERED_HTML', false ); // sensitive
+
 
 # Function with SQL Injection vulnerability
 def sql_injection(username):
